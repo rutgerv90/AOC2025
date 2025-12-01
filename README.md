@@ -4,7 +4,7 @@ My solutions for the Advent of Code 2025 challenges.
 
 Input files and instruction texts are omitted from this repo at public request of the organiser not to share them.
 
-https://adventofcode.com/2021
+https://adventofcode.com/2025
 
 |            | **Part 1** | **Part 2** |
 |------------|:----------:|:----------:|

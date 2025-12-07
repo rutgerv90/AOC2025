@@ -14,7 +14,7 @@ https://adventofcode.com/2025
 | **[Day 04](./day04/day04.ipynb)** |       ✅     |    ✅        |
 | **[Day 05](./day05/day05.ipynb)** |       ✅     |    ✅        |
 | **[Day 06](./day06/day06.ipynb)** |        ✅    |    ✅       |
-| **[Day 07](./day07/day07.ipynb)** |           |           |
+| **[Day 07](./day07/day07.ipynb)** |       ✅    |           |
 | **[Day 08](./day08/day08.ipynb)** |            |            |
 | **[Day 09](./day09/day09.ipynb)** |           |           |
 | **[Day 10](./day10/day10.ipynb)** |           |           |
